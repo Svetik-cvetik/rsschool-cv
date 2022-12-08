@@ -22,3 +22,23 @@ I was born in Belarus but since 2018 I've been living in Lithuania. I'm a mom of
 
 
 *****  
+## Code Example
+`function multiply (a, b) { a * b 
+}`
+
+*****
+## Education
++ Bachelor Degree, Minsk State Linguistic University
++ Master Degree, Belarusian State University
++ PhD, Belarusian State University (unfinished)
+### Courses
++ Free AQ course in A1QA company (unfinished)
++ CS50 lectures
++ RSSchool Frontend/JS Course Stage 0
+
+
+*****
+## Languages
++ English C1
++ German A2
++ Lithuanian 2 Category 
