@@ -1,1 +1,1 @@
-ttps://svetik-cvetik.github.io/rsschool-cv/
+https://svetik-cvetik.github.io/rsschool-cv/
