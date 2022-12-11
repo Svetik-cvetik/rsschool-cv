@@ -40,6 +40,6 @@ I was born in Belarus but since 2018 I've been living in Lithuania. I'm a mom of
 
 *****
 ## Languages
-+ English C1
++ English C2 [EF SET English Certificate 94/100 (C2 Proficient)] (https://www.efset.org/cert/yf9m5A)
 + German A2
 + Lithuanian 2 Category 
