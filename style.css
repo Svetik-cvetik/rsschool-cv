@@ -1,11 +1,11 @@
-.body {
+body {
 font-family: 'Barlow', sans-serif;
 font-family: 'Raleway', sans-serif;
 }
-.body {min-height: 100vh;
+body {min-height: 100vh;
     margin:0;padding:0;
-
-}.h1 {
+}
+.h1 {
     font:bold 36px Barlow, sans-serif;
 }
 * {box-sizing: border-box;}
