@@ -1,16 +1,8 @@
-@font-face {
-    font-family: Barlow;
-    src: url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&family=Raleway&display=swap');
-    font-weight: 400;
+.body {
+font-family: 'Barlow', sans-serif;
+font-family: 'Raleway', sans-serif;
 }
-@font-face {
-    font-family: Barlow;
-    src: url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&family=Raleway&display=swap');
-    font-weight: 700;
-}
-@font-face {
-    font-family: Raleway;
-    src: url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&family=Raleway&display=swap');
-    font-weight: 400;
+.h1 {
+    font:bold 36px Barlow, sans-serif;
 }
 * {box-sizing: border-box;}
