@@ -1,11 +1,22 @@
 body {
 font-family: 'Barlow', sans-serif;
 font-family: 'Raleway', sans-serif;
+font-weight: 400;
 }
 body {min-height: 100vh;
     margin:0;padding:0;
 }
 .h1 {
     font:bold 36px Barlow, sans-serif;
+    font-weight: 700;
+}
+.h2 {
+    font: bold 24px Raleway,sans-serif;
+    font-weight: 700;
 }
 * {box-sizing: border-box;}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
