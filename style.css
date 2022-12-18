@@ -20,3 +20,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
   }
+  footer {
+word-spacing: 500px;
+text-align: justify;
+  }
